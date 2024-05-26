@@ -1,6 +1,6 @@
 // Document write ile cıktı verme
 
-document.writeln("hello world <br>");  //!  <br> alt satıra geçirir 
+document.writeln("hello world <br>");  //!     "<br>"   ---->   alt satıra geçirir 
 document.write("Metehan mercan <br>");
 document.write("25.05.2024");
 
@@ -21,4 +21,4 @@ console.log(a+b);
 // alert (uyarı) popup ile cıktı verme 
 
 console.log(window);
-alert("MERHABAA ")
+alert("MERHABA")
